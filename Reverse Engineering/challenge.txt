@@ -1,0 +1,9 @@
+What was I hiding when I built this program? I left behind a compiled file, but the source code is nowhere to be found...
+
+You can download the challenge file and begin your investigation.
+
+Something valuable is hidden inside, and not everything is as it seems. The password may be closer than you think—sometimes, the smallest clues reveal the biggest secrets.
+
+Look beyond the surface, inspect what remains, and uncover the secret waiting to be found.
+
+Can you discover the password and retrieve the hidden flag?

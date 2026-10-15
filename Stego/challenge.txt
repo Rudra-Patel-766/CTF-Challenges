@@ -1,0 +1,9 @@
+What was hidden inside this image? At first glance, it looks like an ordinary picture, but perhaps there's more than meets the eye...
+
+You can download the challenge image and begin your investigation.
+
+Something is concealed beneath the visible pixels, and the secret may not be as far away as you think. Sometimes, the smallest details hold the biggest secrets.
+
+Look beyond what your eyes can see, explore the hidden data, and uncover the forgotten message waiting to be discovered.
+
+Can you reveal the hidden flag ?
